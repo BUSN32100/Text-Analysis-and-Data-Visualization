@@ -8,7 +8,7 @@ Material for Python courses on Text Analysis and Data Visualization.
 <img src="Figures/songs70.png" height="320" width="420">
 
 
-## On which day did they reach number one? 
+## On which day did they reach number one in in 1977? 
 
 <img src="Figures/day_hit.png">
 
