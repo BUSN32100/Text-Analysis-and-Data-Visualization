@@ -6,7 +6,7 @@ Material for Python courses on Text Analysis and Data Visualization.
 <img src="Figures/songs70.png">
 
 
-## When did hits in 1977 reach number one?
+## Which day did hit songs reach number one in year 1977?
 
 <img src="Figures/day_hit.png">
 
