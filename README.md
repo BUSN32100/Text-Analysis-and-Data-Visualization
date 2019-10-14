@@ -1,7 +1,8 @@
 # Text-Analysis-and-Data-Visualization
 Material for Python courses on Text Analysis and Data Visualization.
 
-## What are the most used words in the 70's hits?  <dd> &#127925  &#127925  &#127925 </dd> 
+## What are the most used words in the 70's hits? 
+<dd> &#127925  &#127925  &#127925 </dd> 
 
 
 <img src="Figures/songs70.png" height="320" width="420">
