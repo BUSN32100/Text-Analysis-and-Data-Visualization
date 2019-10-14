@@ -1,17 +1,17 @@
 # Text-Analysis-and-Data-Visualization
 Material for Python courses on Text Analysis and Data Visualization.
 
-# What are the most used words in the 70's hits?
+## What are the most used words in the 70's hits?
 
 <img src="Figures/songs70.png">
 
 
-# When did they reach number one?
+## When did hits in 1977 reach number one?
 
 <img src="Figures/day_hit.png">
 
 
-#Where are radios located?
+## Where are radios located in the state of Sao Paulo?
 
 <img src="Figures/radios_brazil.png">
 
