@@ -1,14 +1,14 @@
 # Text-Analysis-and-Data-Visualization
 Material for Python courses on Text Analysis and Data Visualization.
 
-## What are the words used the most in the 70's hits? 
+## Which are the the most used word in the 70's hits? 
 <dd> &#127925  &#127925  &#127925 </dd> 
 
 
 <img src="Figures/songs70.png" height="320" width="420">
 
 
-## On which day did hit songs reach number one in 1977? 
+## On which day did hit songs reach number one? 
 
 <img src="Figures/day_hit.png">
 
