@@ -1,15 +1,7 @@
 # Text-Analysis-and-Data-Visualization
 Material for Python courses on Text Analysis and Data Visualization.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Which are the most used word in the 70's hits?
-=======
-## Which are the most used word in the 70's hits? 
->>>>>>> 9b4e1ea967a0663d73d3a4a7f22b0870a6ebc18d
-=======
-## Which are the most used word in the 70's hits? 
->>>>>>> 26016c96b8e6838e79c69af75d760d689fda7d09
 <dd> &#127925  &#127925  &#127925 </dd> 
 
 
