@@ -1,5 +1,5 @@
 # Text-Analysis-and-Data-Visualization
-Material for Python courses on Text Analysis and Data Visualization.
+Material for Python courses on Text Analysis and Data Visualization. In this course we are going to go through an intro to Python programming, perform data/text analysis and visualization. We are going to explore interesting and fun data patterns such as:
 
 ## Which are the most used word in the 70's hits?
 <dd> &#127925  &#127925  &#127925 </dd> 
@@ -17,5 +17,4 @@ Material for Python courses on Text Analysis and Data Visualization.
 
 <img src="Figures/radios_brazil.png">
 
-In this course we are going to learn how to program with Python, perform data/text analysis and visualization.
 
