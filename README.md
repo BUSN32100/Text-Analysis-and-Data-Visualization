@@ -8,7 +8,7 @@ Material for Python courses on Text Analysis and Data Visualization. In this cou
 <img src="Figures/songs70.png" height="320" width="420">
 
 
-## On which day did hit songs reach number one? 
+## When did hit songs reach number one? 
 
 <img src="Figures/day_hit.png">
 
